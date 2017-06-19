@@ -1,0 +1,13 @@
+{
+    "name": "teste/php-slim",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.8"
+    },
+    "authors": [
+        {
+            "name": "Carlos Henrique",
+            "email": "krloss@github.com"
+        }
+    ]
+}
